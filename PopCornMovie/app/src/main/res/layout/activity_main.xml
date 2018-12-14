@@ -87,7 +87,7 @@
             android:id="@+id/suitableCheck"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Not suitable for all audience" />
+            android:text="Not suitable for all audience"/>
 
 
     <LinearLayout
@@ -114,11 +114,11 @@
 
     </LinearLayout>
 
-    <Button
-            android:id="@+id/addedMovie"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="ADD MOVIE"
-            android:onClick="formMovie"/>
+    <!--<Button-->
+            <!--android:id="@+id/addedMovie"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="ADD MOVIE"-->
+            <!--android:onClick="formMovie"/>-->
 
 </LinearLayout>

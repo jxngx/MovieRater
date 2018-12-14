@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center"
+              android:orientation="vertical"
+              tools:context=".Landing_page">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="You have not added a movie"/>
+
+    <TextView
+            android:id="@+id/pressMe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Long Press me to add a movie"/>
+</LinearLayout>
